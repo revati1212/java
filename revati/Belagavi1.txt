@@ -1,0 +1,14 @@
+abstract class Belagavi1(){
+	
+
+public static void Channamma(){
+}
+static void Rpd(){
+}
+public void Cbt(){
+}
+void Nanawadi(){
+
+}
+abstract void duplicate();
+}

@@ -1,0 +1,8 @@
+class Chain{
+public static carat()
+{
+System.out.println("running cost in blood");
+ String group="o";
+ return group;
+}
+}

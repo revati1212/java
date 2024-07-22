@@ -1,0 +1,90 @@
+class Tree{
+public static void main(String[] args){
+	    String str="hello word";
+		System.out.println(str);
+		String test="Now is the time for all good ";
+		System.out.println(test);
+		String ball="men to come to the aid of their country";
+		System.out.println(ball);
+		String doll="Time heals ";
+		System.out.println(doll);
+		String brush="Love conquers.";
+		System.out.println(brush);
+		String jug="Dream big.";
+		System.out.println(jug);
+		String laptop="Stay strong.";
+		System.out.println(laptop);
+		String bag="Be kind.";
+		System.out.println(bag);
+		String dog="Chase joy";
+		System.out.println(dog);
+		String pen="Learn daily";
+		System.out.println(pen);
+		String mobile="Forgive often.";
+		System.out.println(mobile);
+		String sky="Believe in yourself.";
+		System.out.println(sky);
+		String kite="Find your passion.";
+		System.out.println(kite);	
+		String blue="Seek adventure.";
+		System.out.println(blue);
+		String girl="Trust your journey.";
+		System.out.println(girl);
+		String boy="Create happiness.";
+		System.out.println(boy);
+		String bottle="Listen more.";
+		System.out.println(bottle);
+		String pant="Speak kindly.";
+		System.out.println(pant);
+		String clip="Celebrate life.";
+		System.out.println(clip);
+		String teddy="Enjoy the moment.";
+		System.out.println(teddy);
+		String result="u pass the exam.";
+		System.out.println(result);
+		String display="Never give up.";
+		System.out.println(display);
+		String tv="Breathe deeply.";
+		System.out.println(tv);
+		String screen="Live authentically.";
+		System.out.println(screen);
+		String bed="Be courageous.";
+		System.out.println(bed);
+		String home="Grow through challenges.";
+		System.out.println(home);
+		String department="Be the light.";
+		System.out.println(department);
+		String family="Stay humble.";
+		System.out.println(family);
+		String operation="Follow your heart.";
+		System.out.println(operation);
+		String breakfast="Dance in the rain.";
+		System.out.println(breakfast);
+		String ac="Find beauty everywhere.";
+		System.out.println(ac);
+		String earphone="Radiate positivity.";
+		System.out.println(earphone);
+		String window="Spread kindness.";
+		System.out.println(window);
+		String bulb="Value relationships.";
+		System.out.println(bulb);	
+		String watch="Be present.";
+		System.out.println(watch);
+		String band="Laugh often.";
+		System.out.println(band);
+		String finger="Stay curious.";
+		System.out.println(finger);
+		String hair="Savor simplicity.";
+		System.out.println(hair);
+		String marks="Practice gratitude.";
+		System.out.println(marks);
+		String plate="Discover inner peace.";
+		System.out.println(plate);
+		String city="Inspire others.";
+		System.out.println(city);		
+		
+  		
+
+
+
+}}

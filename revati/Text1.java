@@ -1,0 +1,24 @@
+class Text1{
+public static void main(String[] args){
+short noOfNames=30000;
+System.out.println("noOfNames"+noOfNames);
+short noOfTitles=20000;
+System.out.println("noOfTitles"+noOfTitles);
+short noOfHouse=25000;
+System.out.println("noOfHouse"+noOfHouse);
+short noOfTrees=22000;
+System.out.println("noOfTrees"+noOfTrees);
+short noOfColony=30000;
+System.out.println("noOfColony"+noOfColony);
+short noOfGyms=10000;
+System.out.println("noOfGyms"+noOfGyms);
+short noOfMarkets=5000;
+System.out.println("noOfMarkets"+noOfMarkets);
+short noOfSchools=30000;
+System.out.println("noOfSchools"+noOfSchools);
+short noOfColleges=17000;
+System.out.println("noOfColleges"+noOfColleges);
+short noOfAnimals=30000;
+System.out.println("noOfAnimals"+noOfAnimals);
+}
+}
