@@ -1,0 +1,56 @@
+1.c)char[]
+2.a)machine code specific to each platform
+3.c)main()
+4.a)string
+5.b)5
+6.c)p
+7.c)20
+8.a)100
+9.a)60
+
+10)jdk=java development kit ,jdk use to run and exicute the code jdk also jave bin have libraries in jdk we have JRE jre means =java runtime environment in jre it have a libraries. in jre it have JVM=java virtual machine 
+
+11)jvm operations are run and exicute the code and it have jdk,jvm,jit.and also byte code to convert.
+
+12)java is platform independent because in java we can run code once and after we can run it in any flatform,write one time and run it in anyflatform
+
+13)class is a keword, and class is also a non premitive dada type
+where class is taken  name in program without class cant run the program. it is instance of class.
+
+14)there are 48 keywords in java for ex:public,private,static,class,if,else,boolean,instanceof,while,do,for,constant,case,dynamic,while,void,enum,main
+
+15)variable is used to store the data or values and variable change the one location to another location.in variable we have 4 types those are local variable,parameter,static,non static,
+
+16)local variable means it declare within the body of the method 
+for ex:class Clz{
+public static void main(String[] args){
+int numbers=134;//here number is variable//
+}}
+
+
+17)there are two data types 1)premitive data type 2) non premitive data type
+premitive:in premitive data types we have 8 data types those are int,float,char,double,byte,long,short,boolean.
+non premitive:in non premitive data type java have infinite data types for example String,arrya.....
+
+18)main is a keyword in java and main mathod means in main method we declare the parameters,
+withod main we cant run the program,public static void main(String[] args) here public= means access specifier and sratic= is non access specifier and void= means return type. (String[] args)= is parameters. args=arguments
+
+19)static is keyword and static is non access specifier.
+class rev{
+static void name(){
+name(akash);
+}
+
+20)class odd_even(num):{
+public static void main(String[] args)
+{
+    if (num / 2 == 0:)
+        System.out.println(num + "is even.");
+    else:
+        System.out.println(num +" is odd.");
+}
+}
+
+subject:revati ahirasang(CH17ROM 06/07/2024)
+
+
